@@ -42,14 +42,14 @@ Build the project using your preferred IDE or with Maven:
 Open your web browser and navigate to `http://localhost:8080`.
 
 ## ScreenShots
-![Example Image](screenshots/1.png) <br>
-![Example Image](screenshots/2-2.png) <br>
-![Example Image](screenshots/3-3.png) <br>
-![Example Image](screenshots/4-4.png) <br>
-![Example Image](screenshots/5-5.png) <br>
-![Example Image](screenshots/6-6.png) <br>
-![Example Image](screenshots/7.png) <br>
-![Example Image](screenshots/8.png) <br>
+![Login Page](screenshots/1.png)
+![Dashboard](screenshots/2-2.png)
+![Add Expense Form](screenshots/3-3.png)
+![Expense List](screenshots/4-4.png)
+![Filtering Feature](screenshots/5-5.png)
+![Responsive UI](screenshots/6-6.png)
+![Category View](screenshots/7.png)
+![Summary Chart](screenshots/8.png)
 
 
 ## License
